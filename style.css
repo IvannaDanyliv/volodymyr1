@@ -1,0 +1,67 @@
+body {
+    font-family: sans-serif;
+    background-image: linear-gradient(#C936D3,#3E97D1,#FFAA40);
+}
+.logo{
+    width:130px  ;
+    height:150px ;
+   float: left;
+    border-radius:110px;
+}
+nav{
+    width: 80%;
+    background-color: #509F43;
+    float: right;
+    height: 50px;
+    font-family: cursive;
+}
+.class{
+    width: 200px;
+    height: 165px;
+}
+p{
+    color:seashell;
+    font-size: 22px;
+    font-family: cursive;
+}
+.giga{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+.evri{
+    float: right;
+}
+.hop{
+    width: 100%;
+    background-color: tomato;float: right;
+    height: 100px;
+}
+nav a{
+    border: 2px solid black;
+    background-color: black;
+    color: ghostwhite;
+    display: flex;
+    justify-content: center;
+}
+.giga:hover{
+    width: 250px;
+    height: 250px;
+    border: 7px solid black;
+}
+.class:hover{
+     width: 250px;
+    height: 200px;
+    border: 7px solid black;
+}
+.rika:hover{
+    width: 468px;
+    height: 250px;
+    border: 2px solid black;
+}
+.rr{
+    font-size: 17px;
+}
+h1{
+    font-family: cursive;
+}
